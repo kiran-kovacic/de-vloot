@@ -1,0 +1,136 @@
+/* css voor alles */
+body {
+  background-image: url("css/grfx/bg.png");
+  background-repeat: repeat-x;
+  margin: 0px;
+}
+header {
+  background-image: url("css/grfx/header.jpg");
+  width: auto;
+  height: 268px;
+  padding-left: 15px;
+  background-color: white;
+  width: 780px;
+  margin: 0 auto;
+}
+section {
+  background-color: white;
+  width: 800px;
+  margin: 0 auto;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: none;
+}
+li {
+    float: left;
+    padding-top: 150px;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    color: lightgray;
+}
+h1 {
+  margin: 0px;
+  font-family: Arial, Sans-serif;
+}
+h2 {
+  padding: 10px 0px 0px 0px;
+  margin: 0px 15px 10px 15px;
+  font-family: Arial, Sans-serif;
+}
+p {
+  margin: 0px;
+  font-family: Arial, Sans-serif;
+  line-height: 1.5;
+}
+.tekst {
+  padding: 0px;
+  margin: 15px;
+}
+
+/* css voor start*/
+#imgstart {
+  padding: 0px;
+  margin: 10px 15px 15px 15px;
+  float: left;
+}
+
+/* css voor geschiedernis */
+#imggeschiedernis1 {
+  padding: 0px;
+  margin: 10px 15px 15px 15px;
+  float: left;
+}
+#imggeschiedernis2 {
+  padding: 0px;
+  margin: 15px 0px 15px 15px;
+  float: right;
+}
+#imggeschiedernis3 {
+  padding: 0px;
+  margin: 15px 15px 15px 0px;
+  float: left;
+}
+
+/* css voor kruisers */
+#kruiser {
+  padding: 0px;
+  margin: 10px 15px 15px 15px;
+  float: left;
+}
+#kruiser2 {
+  padding: 0px;
+  margin: 10px 15px 15px 0px;
+  width: 200px;
+  height: auto;
+  float: left;
+}
+#kruiser3 {
+  padding: 0px;
+  margin: 15px 0px 15px 15px;
+  float: right;
+}
+
+/* css voor vliegdekschepen */
+#vliegdekschip {
+  padding: 0px;
+  margin: 10px 15px 15px 15px;
+  float: right;
+}
+#vliegdekschipuitleg1 {
+  padding: 0px;
+  margin: 15px 15px 15px 0px;
+  float: left;
+}
+#vliegdekschipuitleg2 {
+  padding: 0px;
+  margin: 15px 15px 15px 0px;
+  float: left;
+}
+
+/* css voor onderzeeërs */
+#onderzeeër1 {
+  padding: 0px;
+  margin: 15px;
+  float: left;
+}
+#onderzeeër2 {
+  padding: 0px;
+  margin: 15px 0px 15px 15px;
+  float: right;
+}
+#onderzeeër3 {
+  padding: 0px;
+  margin: 15px 0px 15px 15px;
+  float: right;
+}
